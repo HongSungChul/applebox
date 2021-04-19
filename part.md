@@ -13,7 +13,6 @@
 |7| 스피커 | Text |
 |7| pir센서 | Text |
 |7| 카메라 | Text |
-
 |7| 모티터링 pc | Text |
 |7| sip전화기 | Text |
 
