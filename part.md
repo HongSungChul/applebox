@@ -1,7 +1,19 @@
 
 #
 
-| Syntax | Description |
-| --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| 번호 | 부품명 | 제품명 | 설명
+| --- | --- | ----------- |
+|1| 라즈베리파이 | 3 or 4 |
+|1| 라즈베리파이케이스 |  |
+|2| 터치모니터20인치 | Text |
+|3| 카드단말기 | Text |
+|4| nfc리더기 | Text |
+|5| 바코드리더기 | Text |
+|6| 락커 컨트럴러 | Text |
+|7| 스피커 | Text |
+|7| pir센서 | Text |
+|7| 카메라 | Text |
+
+|7| 모티터링 pc | Text |
+|7| sip전화기 | Text |
+
