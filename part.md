@@ -29,8 +29,15 @@
 |24| 락커컨트럴러to락커 ir센서 테이블 | Text |
 |25| ir 센서 | Text |
 |26| 모티터링 pc | Text |
-|27| sip전화기 | Text |
-|28| usb 허브 | Text |
-|29| 멀티탭 | Text |
-|30| 락커 | Text |
+|27| 모티터링 pc 파워아답터 | Text |
+|28| 모티터링 pc 모니터파워아답터 | Text |
+|29| 모티터링 pc 마우스 | Text |
+|30| 모티터링 pc 모니터 | Text |
+|31| 모티터링 pc 랜케이블 | Text |
+|32| sip전화기 | Text |
+|33| sip전화기 아답터 | Text |
+|34| sip전화기 랜케이블| Text |
+|35| usb 허브 | Text |
+|36| 멀티탭 | Text |
+|37| 락커 | Text |
 
