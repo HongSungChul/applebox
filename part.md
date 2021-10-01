@@ -38,7 +38,7 @@
 |32| sip전화기 | Text |
 |33| sip전화기 아답터 | Text |
 |34| sip전화기 랜케이블| Text |
-|35| usb 허브 | Text |
+|35| usb 허브 4 포트| Text |
 |36| 멀티탭 | Text |
 |37| 락커 | Text |
 
