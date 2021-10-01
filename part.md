@@ -30,6 +30,8 @@
 |24| 락커컨트럴러to락커 ir센서 테이블 | Text |
 |25| ir 센서 | Text |
 |26| 모티터링 pc | Text |
+|26| 모티터링 pc hdd | Text |
+|26| 모티터링 pc nic card| Text |
 |27| 모티터링 pc 파워아답터 | Text |
 |28| 모티터링 pc 모니터파워아답터 | Text |
 |29| 모티터링 pc 마우스 | Text |
